@@ -52,15 +52,14 @@ const CONFIG = {
     imageURL: '' 
   },
   social: {
-    linkedin: 'subhasish-link', // Replace with your actual LinkedIn slug
-    x: '',
+    linkedin: 'www.linkedin.com/in/subhasish-kumar-sahu-847545310', 
     github: 'Subhasish-33',
     website: '',
     phone: '',
-    email: 'your-email@example.com', // Add your email here
+    email: 'sahusubhasish6@gmail.com', 
   },
   resume: {
-    fileUrl: '', // Add your Google Drive PDF link here later
+    fileUrl: 'https://drive.google.com/file/d/1MktmvY9wplBwjjVQ93vuffEkWaeX37mV/view?usp=sharing', 
   },
   skills: [
     'Python',
@@ -105,7 +104,7 @@ const CONFIG = {
     username: '',
   },
   themeConfig: {
-    defaultTheme: 'dark', // 'dark' or 'night' looks best for DS portfolios
+    defaultTheme: 'dark', 
     disableSwitch: false,
     respectPrefersColorScheme: true,
     displayAvatarRing: true,
